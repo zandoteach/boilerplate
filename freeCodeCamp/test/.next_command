@@ -2,3 +2,15 @@ copy --help
 cp --help
 cp -r website-boilerplate toms-website
 ls --color=auto
+find
+find -name toms-website/
+y
+find -name toms-website
+ls --color=auto
+cd t
+cd toms-website/
+ls --color=auto
+cd ..
+ls --color=auto
+find -name toms-website
+find toms-website
